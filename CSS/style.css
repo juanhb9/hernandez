@@ -70,6 +70,7 @@ body{
     font-size: 30px;
     padding: 0 20px;
     line-height: 60px;
+    cursor:pointer;
     display:none; /*ocultar menu hamburguesa*/
 }
 
@@ -117,4 +118,10 @@ body{
 .nav-menu_visible{
     left:0;
 }
+/*resaltar seleccion con desplazamiento de tecla tabulación*/
+
+.nav-toggle:focus:not(:focus-visible){
+    outline: none;
+}
+
 }
