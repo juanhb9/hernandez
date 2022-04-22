@@ -9,5 +9,5 @@ navToggle.addEventListener("click", () => {
     } else {
         navToggle.setAttribute("aria-label", "Abrir menú");
     }
-// fin de pequeña modificación
+// fin de pequeña modificación hecha en js
 });
