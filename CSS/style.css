@@ -133,7 +133,7 @@ body{
     position: relative;
     height: 500px;
     overflow: hidden;
-    background: url(../IMG/hero_img.jpg)no-repeat center;
+    background: url(../IMG/hero_img.jpg) no-repeat center;
     background-size: cover;
 }
 
