@@ -13,3 +13,5 @@ navToggle.addEventListener("click", () => {
     }
 // fin de pequeña modificación hecha en js
 });
+
+/* nueva función */
