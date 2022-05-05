@@ -192,6 +192,17 @@ body{
     text-align: center;
 }
 
+.cont_skill{
+    display: flex;
+    display: inline-block;
+    flex-direction:column;
+    border:2px solid red;
+    width: 100px;
+}
+.skill{
+   
+}
+
 
 /* ----------- */
 
